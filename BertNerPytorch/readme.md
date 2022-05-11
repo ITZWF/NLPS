@@ -8,3 +8,4 @@
   - 训练是train???.py
   - 解码是eval???.py
   - 参考的是一个大神的crf代码
+  - NER 有padding mask的code看dev分支
